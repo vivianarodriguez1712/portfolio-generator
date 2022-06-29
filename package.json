@@ -1,0 +1,22 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianarodriguez1712/portfolio-generator.git"
+  },
+  "author": "viviana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianarodriguez1712/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/vivianarodriguez1712/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
